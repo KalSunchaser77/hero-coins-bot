@@ -1,4 +1,4 @@
-# ?? Hero Coins Bot v1.1
+# Hero Coins Bot v1.1
 
 A Discord bot for tracking **Hero Coins** and **Big Coins** in tabletop RPGs (especially D&D 5e).  
 Perfect for online campaigns that use the **Hero Coin system by Bob World Builder** - supports per-channel ledgers, GM management, backups, and version info.
@@ -26,3 +26,4 @@ Perfect for online campaigns that use the **Hero Coin system by Bob World Builde
 ### 2?? Installation (local)
 ```bash
 pip install -r requirements.txt
+
