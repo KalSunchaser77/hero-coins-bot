@@ -5,8 +5,8 @@ Perfect for online campaigns that use the **Hero Coin system by Bob World Builde
 
 ---
 
-## ? Features
-- Track ?? Hero Coins and ?? Big Coins per player or party
+## Features
+- Track Hero Coins and Big Coins per player or party
 - Award or spend coins with simple slash commands
 - Optional **per-channel** or **server-wide** tracking
 - Assign or change GM role dynamically with `/setgmrole`
@@ -17,13 +17,14 @@ Perfect for online campaigns that use the **Hero Coin system by Bob World Builde
 
 ---
 
-## ?? Setup
+## Setup
 
-### 1?? Requirements
+### 1 Requirements
 - Python 3.10 or newer (for local use)
 - Discord bot token from the [Discord Developer Portal](https://discord.com/developers/applications)
 
-### 2?? Installation (local)
+### 2 Installation (local)
 ```bash
 pip install -r requirements.txt
+
 
