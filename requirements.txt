@@ -1,2 +1,4 @@
-discord.py
-python-dotenv
+## ⚙️ Requirements
+- A free [Discord Developer Portal](https://discord.com/developers/applications) account.  
+- Windows 10/11 (the included `.exe` runs natively).  
+- Basic familiarity with adding a bot to a Discord server.
